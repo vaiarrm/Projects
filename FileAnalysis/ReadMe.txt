@@ -13,3 +13,20 @@ Create an object of the FileAnalysis.class and pass the path as an argument. Use
 ex: FileAnalysis fa = new FileAnalysis("/home/DummyPath"); 
 	fa.startProcess();
 	fa.generateReport();
+
+Test Results:
+
+Root:
+No Of Files - 1112661
+Time - 172 seconds
+
+External Hard drive:
+
+No Of Files - 1002333
+Time - 525 seconds
+
+No Of Files - 88068
+Time - 8 seconds
+
+No Of Files - 3899
+Time - 3 seconds
